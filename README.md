@@ -4,7 +4,7 @@
  ## Screen shots
  
  * Video_1:
- ![video_1](https://github.com/jaydeepsb/Training_Insights_App_v1.0/blob/main/screen_shots/App_video_short.webm)
+ ![video_1](https://github.com/jaydeepsb/Training_Insights_App_v1.0/blob/main/screen_shots/App_video_long.webm)
  
  
  
