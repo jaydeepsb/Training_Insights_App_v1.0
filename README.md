@@ -3,6 +3,11 @@
  
  ## Screen shots
  
+ * Video_1:
+ ![video_1](https://github.com/jaydeepsb/Training_Insights_App_v1.0/blob/main/screen_shots/App_video_short.webm)
+ 
+ 
+ 
  * App layout: "Distance" tab is seleted. Steps-like view of total distance in selected time range.
  
  ![image_1](https://github.com/jaydeepsb/Training_Insights_App_v1.0/blob/main/screen_shots/image_1.png)
