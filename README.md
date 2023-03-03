@@ -1,11 +1,11 @@
 # Training_Insights_App_v1.0
  An app to automatically pull (using API AccessLink) and analyze workouts and activities recorded using Polar devices.
- * Currently works activitis recorded by Polar watch and devices
+ * Currently works activitis recorded by Polar watch and devices.
  * In future, I plan to include garmin data as well.
  
  Technical aspects:
  * Fully Python based App.
- * plotly dashboard package is used for the App layout and functionality.
+ * Plotly dashboard package is used for the App layout and functionality.
  * Plotly is used for data visualization.
  
  Note:
