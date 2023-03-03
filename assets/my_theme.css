@@ -1,0 +1,64 @@
+/* Dark theme styles */
+body {
+    background-color: #333333;
+    color: white;
+}
+
+.dash-grid {
+    background-color: #444444;
+}
+
+.dash-cell {
+    background-color: #555555;
+}
+
+.dash-header {
+    background-color: #222222;
+    color: white;
+}
+
+.dash-control-label {
+    color: white;
+}
+
+.dash-control-content {
+    color: white;
+}
+
+/* Override styles for specific components */
+.dash-graph {
+    background-color: #666666;
+}
+
+.dash-table {
+    background-color: #777777;
+    color: white;
+}
+
+/* Add your own custom styles as needed */
+
+.divBorder{
+    border: 1px solid lightsteelblue;
+    border-radius: 5;
+   }
+
+.iframeBg {
+    background-color: solid black;
+}
+
+/* restyle radio items */
+.radio-group .form-check {
+    padding-left: 0;
+    width: 100%;
+  }
+  
+  .radio-group .btn-group > .form-check:not(:last-child) > .btn {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
+  .radio-group .btn-group > .form-check:not(:first-child) > .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px;
+  }

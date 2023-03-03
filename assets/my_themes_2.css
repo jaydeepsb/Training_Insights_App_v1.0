@@ -1,0 +1,60 @@
+body {
+    background-color: #2E2E2E;
+    color: #E0E0E0;
+}
+
+.dash-header {
+    background-color: #363636;
+}
+
+.dash-app-container {
+    background-color: #333;
+}
+
+.dash-navbar-brand {
+    color: #E0E0E0 !important;
+}
+
+.dash-navbar-dropdown-toggle:after {
+    border-top: 4px solid #E0E0E0;
+}
+
+.dash-navbar-dropdown .dropdown-item:hover,
+.dash-navbar-dropdown .dropdown-item:focus {
+    background-color: #363636;
+}
+
+.dash-graph {
+    background-color: #333;
+}
+
+.plotly-graph-container {
+    background-color: #333;
+}
+
+.plotly .legend .trace,
+.plotly .legend .legendtitle {
+    color: #E0E0E0 !important;
+}
+
+.plotly .xaxistext,
+.plotly .yaxistext {
+    fill: #E0E0E0;
+}
+
+.dash-button {
+    background-color: #0074D9;
+    color: #E0E0E0;
+    border-color: #0074D9;
+}
+
+.dash-button:hover,
+.dash-button:focus {
+    background-color: #0063aa;
+    border-color: #0063aa;
+}
+
+.dash-button:active {
+    background-color: #004c8b;
+    border-color: #004c8b;
+}
