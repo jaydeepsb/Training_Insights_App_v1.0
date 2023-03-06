@@ -1,3 +1,4 @@
+# Author: https://github.com/jaydeepsb
 #=== to kill previously running ports
 # to list: sudo lsof -iTCP:8050 -sTCP:LISTEN
 # to kill: kill -9 $(lsof -t -i:"8050")
