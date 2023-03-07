@@ -9,7 +9,7 @@
  * Plotly is used for data visualization.
  
  Note:
- * you need to create your API credentials:
+ You need to create your API credentials:
  - client_id
  - client_secret
  - access_token
