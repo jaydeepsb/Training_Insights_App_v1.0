@@ -10,10 +10,10 @@
  
  Note:
  * you need to create your API credentials:
- -client_id
- -client_secret
- -access_token
- -user_id
+ - client_id
+ - client_secret
+ - access_token
+ - user_id
  
  and save it in the appropriate yml file under folder - credentials.
  
